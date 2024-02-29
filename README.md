@@ -14,6 +14,7 @@ Welcome to my GitLab profile! Here, you'll find projects and works accomplished 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)\
 
 #### My projects
+[Console_Game](https://github.com/gapis83/Console_Game)
 
 <!---
 gapis83/gapis83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
