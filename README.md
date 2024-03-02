@@ -17,8 +17,9 @@ Welcome to my GitLab profile! Here, you'll find projects and works accomplished 
 
 | Project name | Description | Tools |
 |---|---|---|
-| [Console_Game](https://github.com/gapis83/Console_Game) | This project emphasizes robust Java unit testing, focusing on a modular testing structure for diverse software development exercises. It leverages the JUnit framework for reliable and effective Java unit testing. | Java, ASCII-графика |
-| [Unit_Tests](https://github.com/gapis83/Unit_Tests) | This project aims to create Java game with procedural map generation, turn-based movement, and enemy AI, allowing customization through configuration files and utilizing Maven for efficient dependency management. | Testing Framework: JUnit |
+| [Console_Game](https://github.com/gapis83/Console_Game) | This project aims to create Java game with procedural map generation, turn-based movement, and enemy AI, allowing customization through configuration files and utilizing Maven for efficient dependency management. | Java, ASCII-графика |
+| [Unit_Tests](https://github.com/gapis83/Unit_Tests) | This project emphasizes robust Java unit testing, focusing on a modular testing structure for diverse software development exercises. It leverages the JUnit framework for reliable and effective Java unit testing. | Java, Testing Framework: JUnit |
+| [MathCalc](https://github.com/gapis83/MathCalc) | The project aims to provide a robust and user-friendly calculator with advanced functionalities. | C++, Framework: Qt |
 
 
 
