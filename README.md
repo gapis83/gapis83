@@ -21,6 +21,7 @@ Welcome to my GitLab profile! Here, you'll find projects and works accomplished 
 | [Unit_Tests](https://github.com/gapis83/Unit_Tests) | This project emphasizes robust Java unit testing, focusing on a modular testing structure for diverse software development exercises. It leverages the JUnit framework for reliable and effective Java unit testing. | Java, Testing Framework: JUnit |
 | [MathCalc](https://github.com/gapis83/MathCalc) | The project aims to provide a robust and user-friendly calculator with advanced functionalities. | C++, Framework: Qt |
 | [OpenGL_Viewer](https://github.com/gapis83/OpenGL_Viewer) | This project details building a 3D viewer using OpenGL for high-performance visualization of interactive 3D models. | C++, Framework: Qt |
+| [CalcC](https://github.com/gapis83/CalcC) | The goal of the project is to create an advanced calculator with business logic implemented in the C language and a graphical user interface. | C, Framework: Qt |
 
 
 
