@@ -23,6 +23,7 @@ Welcome to my GitLab profile! Here, you'll find projects and works accomplished 
 | [OpenGL_Viewer](https://github.com/gapis83/OpenGL_Viewer) | This project details building a 3D viewer using OpenGL for high-performance visualization of interactive 3D models. | C++, Framework: Qt |
 | [Calc_C](https://github.com/gapis83/Calc_C) | The goal of the project is to create an advanced calculator with business logic implemented in the C language and a graphical user interface. | C, Framework: Qt |
 | [3D_Visualizer_C](https://github.com/gapis83/3D_Visualizer_C) | A program for visualizing wireframe 3D models from OBJ files, developed in C using Qt, providing flexible display options. | C, Framework: Qt |
+| [Campus_DB](https://github.com/gapis83/Campus_DB) | The project involves creating a database, as well as automating and coordinating the addition of data to tables and obtaining analytical information from the data.| SQL, Postgresql |
 
 
 
