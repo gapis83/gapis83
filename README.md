@@ -24,6 +24,9 @@ Welcome to my GitLab profile! Here, you'll find projects and works accomplished 
 | [Calc_C](https://github.com/gapis83/Calc_C) | The goal of the project is to create an advanced calculator with business logic implemented in the C language and a graphical user interface. | C, Framework: Qt |
 | [3D_Visualizer_C](https://github.com/gapis83/3D_Visualizer_C) | A program for visualizing wireframe 3D models from OBJ files, developed in C using Qt, providing flexible display options. | C, Framework: Qt |
 | [Campus_DB](https://github.com/gapis83/Campus_DB) | The project involves creating a database, as well as automating and coordinating the addition of data to tables and obtaining analytical information from the data.| SQL, Postgresql |
+| [Secure_Network_Configuration](https://github.com/gapis83/Secure_Network_Configuration) | The project involves configuring static routing, NAT, firewall and SSH tunnels to ensure secure communication between multiple virtual machines and traffic control based on predefined security rules.| Linux |
+| [Custom_Docker](https://github.com/gapis83/Custom_Docker) | The project involves setting up Docker images, secure containers deployment using Docker Compose, and security scanning with Dockle.| Docker, Nginx |
+| [Bash_Tools](https://github.com/gapis83/Bash_Tools) | The project focuses on developing Bash scripts for system administration tasks, including parameter validation, gathering system information, customizing output through configuration files, and enhancing visual presentation with color formatting.| Linux, Bash |
 
 
 
